@@ -271,6 +271,7 @@ body {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
     background: #ffffff;
+
 }
 
 .box {
@@ -297,17 +298,17 @@ body {
     padding: 10px 50px;
     border: none;
     outline: none;
-    background: #b7b2b2;
+    background: #eee9e9;
     border-radius: 5px;
 }
 
 .form-box button {
-    color: #e6cece;
-    padding: 10px 20px;
+    color: #ffffff;
+    padding: 10px 15px;
     font-size: 20px;
     border: none;
     border-radius: 5px;
-    background: #4769d8;
+    background: #ff3c3c;
     cursor: pointer;
     transition: .3s;
     margin-left: -3px;
